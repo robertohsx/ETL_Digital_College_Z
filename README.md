@@ -29,15 +29,11 @@ Na modelagem utilizamos:
 
 3. **Checagem das tabelas nos postgres**: Nesta etapa, realizamos selects para validar a inserção das tabelas transformadas no pentaho para o postgres.
 
-Select da Dimensão Fornecedor
+- Select da Dimensão Fornecedor
 ##
 ```sql
 SELECT * FROM estoque.dim_fornecedor
-##
 
-Select da Dimensão Loja
-```sql
-SELECT * FROM estoque.dim_loja
 
 
 
