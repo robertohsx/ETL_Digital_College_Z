@@ -3,14 +3,14 @@
 
 # Projeto: Criando um Banco de dados e tabelas dimensões com PostgreSQL - Usando o PENTAHO
 
-O projeto tem como desafio criar um Banco de Dados Dimensional, usando a transformação ETL de um arquivo CSV no Pentaho, criando tabelas dimensões e fato, e obtendo com sucesso um output para o banco de dados Postgres, com o objetivo de ter eficiencia e a rapidez nas consultas. 💼🔗
+O projeto tem como desafio criar um Banco de Dados Dimensional, usando a transformação ETL de um arquivo CSV no Pentaho, criando tabelas dimensões e fato, realizando um output para o banco de dados Postgres, com o objetivo de ter eficiencia e a rapidez nas consultas. 💼🔗
 
 
 ## 🚀 Começando
 
 Neste projeto, realizamos a criação de um banco de dados roberto_DA_06 e o schema estoque sendo essa a base de todo o projeto.
 
-> **Foi dividida a análise em 3 etapas:**
+> **O projeto foi realizado em 3 etapas:**
 
 1. **Análise do Arquivo CSV**: Nesta etapa, analisamos o arquivo tbestoque.csv recebido, para entender os dados a serem análisados e fazer a separação das dimensões e fato.
 
@@ -53,10 +53,10 @@ SELECT * FROM estoque.tabela_fato;
 -**Arquivo CSV da base de Dados**.
 
 
-Obrigado!
+🚀Obrigado!
 * Compartilhe com outras pessoas esse projeto 📢;
 
 
 ---
 
-https://github.com/robertohsx
+💻 [Roberto Hellery](https://github.com/robertohsx)
