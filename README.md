@@ -58,4 +58,4 @@ Obrigado!
 
 
 ---
-⌨️ com ❤️ por [Nayara Vakevskii](https://github.com/NayaraWakewski) 😊
+
