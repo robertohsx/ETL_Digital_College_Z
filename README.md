@@ -27,48 +27,35 @@ Na modelagem utilizamos:
 
 -**Table Output:** A etapa "Table Output" é usada para enviar os resultados do fluxo de trabalho do Pentaho para uma tabela de banco de dados. Isso permite que os dados transformados ou processados sejam inseridos, atualizados ou substituídos em uma tabela específica do banco de dados. Nesse projeto inserimos as tabelas em um banco de dados dimensional no Postgres.
 
-3. **Checagem das tabelas nos postgres**: Nesta etapa, realizamos selects para validar a inserção das tabelas transformadas no pentaho para o postgres.
+3. **Checagem das tabelas nos postgres**: Nesta etapa, realizamos selects para validar as inserções das tabelas transformadas no pentaho para o postgres.
 
 - Select da Dimensão Fornecedor
 ```sql
-SELECT * FROM estoque.dim_fornecedor
-
+SELECT * FROM estoque.dim_fornecedor;
+```
 - Select da Dimensão loja
 ```sql
-SELECT * FROM estoque.dim_loja  
-
+SELECT * FROM estoque.dim_loja;
+```
 - Select da Dimensão produto
 ```sql
-SELECT * FROM estoque.dim_produto
-
-- Select da Tabela Fato
+SELECT * FROM estoque.dim_produto;
+```
+ - Select da Tabela Fato
 ```sql
-SELECT * FROM estoque.tabela_fato
-
-
-
-
-
-
-
-
-
-
+SELECT * FROM estoque.tabela_fato;
+``` 
 
 ## ⚙️ Arquivos no Repositório:
-
--**Pbix com os Insights**.
 
 -**Arquivo .ktr do Pentaho**.
 
 -**Arquivo CSV da base de Dados**.
 
 
-
-## 🎁 Expressões de gratidão
-
+Obrigado!
 * Compartilhe com outras pessoas esse projeto 📢;
-* Quer saber mais sobre o projeto? Entre em contato para tomarmos um :coffee:;
+
 
 ---
 ⌨️ com ❤️ por [Nayara Vakevskii](https://github.com/NayaraWakewski) 😊
