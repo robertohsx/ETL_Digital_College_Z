@@ -1,5 +1,3 @@
-![texto alt](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp)
-
 
 # Projeto: Criando um Banco de dados e tabelas dimensões com PostgreSQL - Usando o PENTAHO
 
