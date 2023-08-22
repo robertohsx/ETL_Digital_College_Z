@@ -3,7 +3,7 @@
 
 # Projeto: Criando um Banco de dados e tabelas dimensões com PostgreSQL - Usando o PENTAHO
 
-O projeto tem como desafio criar um Banco de Dados Dimensional, usando a transformação ETL de um arquivo CSV no Pentaho, criando tabelas dimensões e fato, realizando um output para o banco de dados Postgres, com o objetivo de ter eficiencia e a rapidez nas consultas. 💼🔗
+O projeto tem como desafio criar um Banco de Dados Dimensional, usando a transformação ETL de um arquivo CSV no Pentaho, criando tabelas dimensões e fato, realizando um output para o banco de dados Postgres, com o objetivo de ter eficiência e a rapidez nas consultas. 💼🔗
 
 
 ## 🚀 Começando
